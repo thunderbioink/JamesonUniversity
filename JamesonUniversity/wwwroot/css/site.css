@@ -1,0 +1,47 @@
+html {
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+  header {
+    background-color: darkgreen !important;
+    color: white !important;
+    }
+
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+header {
+    background-color: darkgreen !important;
+    color: white !important;
+}
+
+navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 {
+    background-color: darkgreen !important;
+    color: white !important;
+}
+
+footer {
+    background-color: darkgreen !important;
+    color: white !important;
+}
+
+body {
+  margin-bottom: 60px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#content-text {
+    color: black;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
